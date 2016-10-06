@@ -1,2 +1,2 @@
 # SoftwareDesign
-Some Projects from a software design class that I took
+Some ideas for animation software design that I have.
